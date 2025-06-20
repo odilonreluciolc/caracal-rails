@@ -1,4 +1,4 @@
-require 'caracal/the_curve'
+require 'caracal'
 require 'caracal/rails/template_handler'
 require 'caracal/rails/version'
 require 'tilt'
